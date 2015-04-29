@@ -1,21 +1,21 @@
 #Quick Git Quiz
 
-###What is your name?
+###What is your name? 
 
-Your answer goes here
+David Horn
 
 ###What is your favorite color?
 
-Your answer goes here
+BLUE!
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs though I do also like cats, though you can't take cats on a hike.
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Waking up on the right side of the bed, drinking some coffee, going for a hike, and then finishing it with a nice bottle of wine.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+John Stewart
